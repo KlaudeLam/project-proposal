@@ -2,7 +2,7 @@
 
 ## Project title
 
-**Yumma** — a NYC halal food map for Muslim diners
+**Yumma!** — a NYC halal food map for Muslim diners
 
 ## What and why?
 
