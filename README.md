@@ -26,8 +26,20 @@ The goal: open the app anywhere in NYC and get a fast, trustworthy answer to "wh
 
 ## Scope
 
+### Short-term (within semester)
+
 - **NYC only.** A dense, well-documented city means the map will feel genuinely useful, not sparse.
 - **Team-curated data, not crowd-sourced.** Real sources exist to build from — Zabihah (346+ NYC listings) and HMS USA (114+ certified NYC listings) — but neither offers a public API or bulk export, so the team will manually research and hand-enter a seed database (~50–100 listings), cross-referencing certification status. This sidesteps the much harder problem of building and moderating an open submission pipeline.
 - **Fixed trust categories**, not an open-ended reputation system, keeps the verification feature buildable in one semester.
+
+
+### Long-term
+
+- **More cities**: Expand beyond NYC to other major US cities with large Muslim populations (Chicago, Dallas, LA), then internationally.
+- **Crowd-sourced submissions**: Open listings to user submissions with moderation, instead of team-curated data.
+- **User features**: Trip planning, personalized recommendations, prayer time/qibla integration.
+- **Business tools**: Self-serve portal for owners to claim/verify their own listing.
+
+All expansions build on the same core data model from the NYC MVP — growth is additive, not a redesign.
 
 This leaves a solid core (map, search/filter, verified data) achievable well before semester end, with clear stretch goals (user submissions, more boroughs, richer reviews) if time allows.
