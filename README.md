@@ -26,8 +26,6 @@ The goal: open the app anywhere in NYC and get a fast, trustworthy answer to "wh
 
 ## Scope
 
-Kept deliberately tight for a semester and a team of 4–6:
-
 - **NYC only.** A dense, well-documented city means the map will feel genuinely useful, not sparse.
 - **Team-curated data, not crowd-sourced.** Real sources exist to build from — Zabihah (346+ NYC listings) and HMS USA (114+ certified NYC listings) — but neither offers a public API or bulk export, so the team will manually research and hand-enter a seed database (~50–100 listings), cross-referencing certification status. This sidesteps the much harder problem of building and moderating an open submission pipeline.
 - **Fixed trust categories**, not an open-ended reputation system, keeps the verification feature buildable in one semester.
